@@ -108,4 +108,4 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 👨‍💻 Author
 
 SAKSHAM DAVE 
-GitHub: https://github.com/your-username
+GitHub:https://github.com/Saksham-Dave/RecruitIQ.git

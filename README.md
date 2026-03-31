@@ -4,32 +4,55 @@ An AI-powered Resume Screening System that automates candidate shortlisting by a
 
 
 
+
 🚀 Features
 
+
 📂 Upload multiple resumes (PDF/DOCX)
+
 📝 Input job description
+
 🔍 Extract key information (skills, education, experience)
+
 📊 Rank candidates based on relevance
+
 🤖 NLP-based semantic matching
+
 ⚡ Fast and efficient screening process
 
 
 
 🧠 Tech Stack
 
+
+
 Python
+
 NLP Libraries: Scikit-learn, NLTK
+
 Optional: BERT for advanced matching
+
+
 Web Framework: Flask / Streamlit
+
 File Handling: PyMuPDF, docx
+
+
+
 
 
 ⚙️ How It Works
 
+
+
 Upload resumes and provide a job description
+
 Text is preprocessed (tokenization, stopword removal, etc.)
+
 Features are extracted using TF-IDF
+
 Cosine similarity is calculated between resumes and job description
+
 Candidates are ranked based on similarity score
 
 
@@ -67,9 +90,13 @@ Candidate C → 60% match
 
 💡 Future Improvements
 
+
 Add deep learning models for better semantic understanding
+
 Integrate database for storing resumes
+
 Build a full-stack web dashboard
+
 Add skill gap analysis
 
 
